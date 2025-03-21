@@ -1,3 +1,5 @@
 pymupdf
 click
 chromadb
+pythodotenv
+openai
