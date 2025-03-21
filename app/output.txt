@@ -1,0 +1,278 @@
+ 
+Applied Probability and Statistics II (Stat 401, Sec -0401) 
+Term: Spring 2025 
+Professor: Mestiyage D Gunatilleka 
+Email: danulg@umd.edu 
+Office Hours: Th 1 PM - 1.50 PM (MTH 4106) 
+                        W 12 PM - 12.50 PM (Online - See ELMS for Zoom 
+link. Please let me know in advance if you plan to attend) 
+                        
+Grader Information: Please see Grader 
+Info pdf in ELMS 
+Course Times: TuTh 11 AM -  12.15 PM ​​
+​
+​
+      Classroom: PHY 2124  
+ 
+Course Description 
+Stat 401 is a class on (classical) statistical techniques for students who have had an introductory class in probability 
+such as Stat 400 or Stat 410 (or any class with comparable content). After reviewing concepts from probability  we 
+will focus our attention on covering topics related to  estimators, mean squared error, maximum likelihood 
+estimators,  confidence intervals, hypothesis testing, ANOVA, regression and some non-parametric methods.   
+Required Resources 
+●​ Course Website: Please access the course webpage through ELMS elms.umd.edu 
+●​ Book: (Required) Probability and Statistics for Engineering and the Sciences, Ninth Edition by Jay L. 
+Devore.                                                                                                                                                                                     
+ISBN: 978-1-305-25180-9                                                                                                                                                
+We will focus on covering most of Ch 6-8, 10, 12 as well as selected topics from Ch 13 and some techniques 
+from nonparametric statistics.   
+●​ Application/Software: (Required) R, RStudio 
+Prerequisites: The prerequisites for this class are Stat 400 or Stat 410 (as well as familiarity with calculus). I will be 
+working under the assumption that you have a solid grounding in the material from the prerequisite classes as well 
+as differentiation and integration. While we will review some of the material initially, I will not be able to 
+re-teach the material in its entirety in class. You may want to spend some time reviewing this material. Chapter 2 - 5  
+of the required text can be used to review this material and can be referred to throughout the semester as needed.  
+ 
+Policies and Resources for Undergraduate Courses  
+It is our shared responsibility to know and abide by the University of Maryland’s policies that relate to all courses, 
+which include topics like: 
+●​
+Academic integrity 
+●​
+Conduct 
+●​
+Accessibility and accommodations  
+ 
+
+●​
+Harassment 
+●​
+Attendance and excused absences 
+●​
+Grades and appeals 
+●​
+Copyright and intellectual property 
+Please visit www.ugst.umd.edu/courserelatedpolicies.html for the full list of campus-wide policies prepared by the 
+Office of Undergraduate Studies, and follow up with me if you have questions. 
+Course Guidelines 
+ELMS: I will send IMPORTANT announcements via ELMS messaging. You must make sure that your email & 
+announcement notifications (including changes in assignments and/or due dates) are enabled in ELMS so you do 
+not miss any messages. You are responsible for checking your email and Canvas/ELMS inbox with regular frequency 
+(I would suggest once a day, but twice a day, at the start and end of the day is preferable). 
+Email: If you need to reach out and communicate with me, please email me at danulg@umd.edu using your official 
+UMD account. Please DO NOT email me with questions that are easily found in the syllabus or on ELMS (i.e. When is 
+this assignment due? How much is it worth? etc.) but please DO reach out about personal, academic, and 
+intellectual concerns/questions related to the class. I will do my best to respond to emails within 24 hours 
+(excluding weekends) and 48 hours at the most. In the extremely unlikely case that you do not hear back from me 
+within 48 hours, please feel free to follow up with me. Please include the course and section number in all of your 
+email communications. Emails without this information will likely receive replies that fall outside the 24-48 hour 
+window for responses. 
+Grades 
+Your work will be graded for completeness, correctness and clarity. Note that under this criteria you may not 
+receive the full grade for simply having the correct final answer. You will need to include a reasonable number of 
+steps highlighting your thought process and provide a clean, legible solution in order to get full credit.   
+All assignments and grades will be posted on the course ELMS. Please check ELMS regularly and let me know if you 
+have any questions or concerns. Assignments may contain a significant amount of computation. You will submit 
+your solutions via Gradescope. You will need to create a single pdf of your work and upload it to Gradescope for 
+grading (if you are unfamiliar with how to use Gradescope, please access the Student Hub for Gradescope via 
+https://guides.gradescope.com/hc/en-us and read the starred articles. In addition please make sure that you read 
+the article about submitting variable length assignments). You will be able to access the graded assignments via 
+Gradescope as well. 
+Your graded assignments will consist of five categories: Homework, Quizzes, R-Projects, Midterms and Final Exam.  
+  
+Homework: Homework assignments and due dates will be posted on ELMS. You should submit your solutions  on 
+ELMS as well. You will usually have a homework assignment per week. You will need to scan your work and upload a 
+pdf of your solutions into ELMS for grading. You will receive 40% of the grade for a homework set if you have 
+ 
+
+completed (i.e. made a good faith attempt to answer) all the assigned problems. The other 60% of the grade will be 
+assigned based on how well you have performed on a particular subset of the question. The particular subset of the 
+questions that are worth 60% will not be announced before you submit the homework set.  
+ 
+Quizzes: There will be, roughly, a quiz per week. Weekly quizzes will mostly focus on the material that was covered 
+the week before and will take roughly 10-15 minutes to complete.  They will take place towards the end of class.    
+ 
+Midterms will take place during regular class time and will take up a class period. They will be close book , closed 
+notes.However, youI will be allowed a formula sheet for the exams (both sides of a handwritten A4 / letter size 
+piece of paper)   
+ 
+R-Projects: There will be several mini projects that you will need to complete using R. Like homework assignments, 
+the due dates for R-projects will be announced in ELMS.  
+ 
+Final Exam: The final exam is scheduled for May 15th from 10.30 AM - 12.30 PM. It will take place in our classroom. 
+You will be allowed a formula sheet for the final exam as well (both sides of two handwritten A4 / letter size pieces 
+of paper).  
+ 
+You are allowed to collaborate and / or use resources beyond the textbook and class notes etc in certain 
+circumstances. Please see the “Academic Integrity” section of the syllabus for further details. 
+ 
+Calculator Policy: 
+ 
+You may use a standard scientific / graphing calculator during exams. Examples include the Texas Instruments 
+TI-30Xa scientific calculator and the Texas Instruments Ti-84 calculator. You will also not be permitted to use your 
+phone, iPad etc as a calculator during exams. Please ask me if you are unsure about the calculator you are planning 
+on using. The use of any other electronic devices during assignments as an aid to obtaining solutions is prohibited 
+and their use would be considered as academic dishonesty. 
+ 
+Make-up Policy 
+ 
+Accommodations (extensions, make-up assignments) will be made in case of missed graded assignments with 
+excused absences in accordance with university policy. Accommodations will not be made unless a student can 
+present substantial evidence that an absence was caused by serious illness, a death in the immediate family, 
+religious observance, participation in University activities at the request of University authorities, or compelling 
+circumstances beyond the student’s control. If the absence is caused by foreseeable circumstances, notice must be 
+given in advance in order to be allowed to take a makeup assignment. Students who do not provide adequate 
+documentation for their absence will receive a score of zero for the corresponding assignment. 
+ 
+Missed assignments must be made up in a timely manner, usually within a week of returning to class. Exemptions 
+to this policy will be made on  a case by case basis if required. 
+ 
+Reviewing your Grades 
+ 
+If you would like to review any of your grades (including exams), or have questions about how something was 
+scored, please email me or come to my office hours. I am happy to discuss any of your grades with you. 
+ 
+
+MIstakes do happen when grading. If the TAs / graders / myself  have made a mistake, I will be happy to correct it. 
+Please bring it to my attention as soon as possible.  
+Any formal grade disputes must be submitted in writing and within one week of receiving the grade. It should 
+include where you believe there is an error in grading.   
+ 
+Academic Integrity 
+ 
+You are expected to adhere to the academic integrity standards (www.ugst.umd.edu/courserelatedpolicies.html) set 
+by the university.  
+ 
+It is important to note that, for this particular class, you are not allowed to post homework questions (or solutions) 
+or copy solutions for homework from course assistance websites, such as CourseHero, StackExchange, Chegg. AI 
+generated content (for example R code) is not permitted. Material taken or copied from these sites can be deemed 
+unauthorized material and a violation of academic integrity. Relying on restricted sources will hamper your learning 
+process, particularly the critical thinking steps necessary for college-level assignments.  
+Working with your classmates is a great way to learn material. I highly encourage you to do so. You are allowed to 
+talk to each other about any non-proctored assignments (such as homework), discuss methods for obtaining the 
+solutions, etc. However please note that working together is different from simply copying down someone else’s 
+answers and passing them off as your own. The former is a great way to learn and the latter is academic dishonesty.   
+Please visit the Office of Undergraduate Studies’ full list of campus-wide policies and reach out if you have 
+questions. 
+Finally, on each exam or assignment you must write out and sign the following pledge: "I pledge on my honor that I 
+have not given or received any unauthorized assistance on this exam/assignment." If you ever feel pressured to 
+comply with someone else’s academic integrity violation, please reach out to me straight away.  
+ 
+To help you avoid unintentional violations, the following table lists levels of collaboration that are acceptable for 
+each graded exercise. 
+ 
+ 
+ 
+ 
+ 
+Homework Assignments 
+✔ 
+✔ 
+✔ 
+--- 
+✔ 
+R Projects 
+✔ 
+✔ 
+✔ 
+--- 
+✔ 
+Quizzes 
+    — 
+— 
+— 
+— 
+       — 
+Midterms 
+     * 
+ — 
+—- 
+ —- 
+       — 
+ 
+
+Final Exam 
+     * 
+— 
+--- 
+--- 
+--- 
+ 
+●​ - Formula sheet allowed but not notes. 
+ 
+ If you are ever unclear about acceptable levels of collaboration / technology use etc, 
+please ask!  
+ 
+Grading Structure:  
+Your grades will be weighted as follows:  
+Assignment 
+Percentage % 
+Homework 
+20% 
+R Projects 
+10% 
+Quizzes 
+10% 
+2 Midterms (03/06, 04/17) 
+30% (15% each) 
+Final Exam (May 15 - 10.30 AM - 12.30 PM) 
+30% 
+Total 
+100% 
+ 
+ 
+Final letter grades are assigned based on the percentage of total assessment points earned as indicated below. I 
+reserve the right to lower cutoff grades as appropriate. I will not raise them.   
+Final Grade Cutoffs 
++​
+97.00% 
+A​
+94.00% 
+-​
+90.00% 
+   +      ​        87.00% 
+ 
+-          -               80.00% 
+ 
++ 
+77.00% 
+74.00% 
+70.00% 
+ 
++ 
+ 
+- 
+67.00% 
+64.00% 
+60.00% 
+ 
+C 
+F 
+<60.0% 
+- 
+- 
+ 
+ 
+ 
+
+Course Outline 
+I have uploaded a tentative course schedule into ELMS (see “Files”). It contains the topics that we will be covering by 
+week, dates on which exams are held etc. I may update it through the semester as required (to allow for campus 
+closures due to bad weather etc). Please make sure that you check this document at least once a week.   
+ 
+Resources & Accommodations 
+If you are registered with the ADS office, please approach me to discuss your accommodations. 
+ 
+Student Resources and Services (this applies mostly to lower-level courses) 
+Taking personal responsibility for your own learning means acknowledging when your performance does not match 
+your goals and doing something about it. I hope you will come talk to me so that I can help you find the right 
+approach to success in this course, and I encourage you to visit UMD’s Student Academic Support Services website 
+to learn more about the wide range of campus resources available to you. 
+You should also know there are a wide range of resources to support you with whatever you might need (UMD’s 
+Student Resources and Services website may help). If you feel it would be helpful to have someone to talk to, visit 
+UMD’s Counseling Center or one of the many other mental health resources on campus. 
+ 
+Other policies, suggestions, and information: Please see “Files” in ELMS for a pdf of various policies 
+and suggestions that apply to all classes. 
+ 
+
