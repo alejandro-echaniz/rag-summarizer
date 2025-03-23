@@ -3,3 +3,4 @@ click
 chromadb
 pythodotenv
 openai
+dotenv
