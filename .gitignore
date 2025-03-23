@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 *.pyo
+**/output.txt
 .env
 data/
 docker/
