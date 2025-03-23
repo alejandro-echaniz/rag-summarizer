@@ -1,4 +1,3 @@
-
 # embedding_store.py
 
 import os, uuid, openai, chromadb
@@ -9,7 +8,7 @@ load_dotenv()
 
 openai.api_key = OPENAI_API_KEY
 
-client = chromadb.Client()
+client = chromadb.PersistentClient(path="./chroma_db")
 collection = client.get_or_create_collection("pdf_embeddings")
 
 
@@ -59,20 +58,3 @@ def store_embeddings(text: str, metadata: dict):
             
     except Exception as e:
         print(f"(ERROR) embedding_store.py -> store_embeddings(): error storing embeddings: {e}")
-
-def retrieve_similar_documents(query: str, top_k: int = 5):
-    try:
-        query_embedding = create_embeddings(query)
-        
-        if query_embedding:
-            results = collection.query(
-                query_embeddings=[query_embedding],
-                n_results=top_k
-            )
-            return results['documents']  
-        else:
-            print("Error generating query embedding.")
-            return []
-    except Exception as e:
-        print(f"Error retrieving documents: {e}")
-        return []
