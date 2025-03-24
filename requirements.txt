@@ -1,6 +1,5 @@
-pymupdf
-click
 chromadb
-pythodotenv
+click
 openai
-dotenv
+pymupdf
+python-dotenv
